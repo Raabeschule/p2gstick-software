@@ -1,5 +1,6 @@
 This repository contains software from various projects under different licenses.
-The main part is p2gstick-software from the p2gstick project (http://p2gstick.org). It is licensed under the MIT license.
+The main part is p2gstick-software from the p2gstick project (http://p2gstick.org).
+It is licensed under the MIT license.
 
 The MIT License (MIT)
 
@@ -25,4 +26,7 @@ THE SOFTWARE.
 
 ---
 
-This repository also contains a portable version of GPG4Win (compiled/GPG4Win_Portable) under the GPL License (see compiled/GPG4Win_Portable/README-2.2.1.en.txt). We have not modified this, it was generated using the mkportable.exe utility as described here: http://www.gpg4win.org/download.html
+This repository also contains a portable version of GPG4Win (compiled/GPG4Win_Portable)
+under the GPL License (see compiled/GPG4Win_Portable/README-2.2.1.en.txt).
+We have not modified this, it was generated using the mkportable.exe utility as described
+here: http://www.gpg4win.org/download.html
